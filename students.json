@@ -1,0 +1,25 @@
+[
+    {
+        "Name": "Nguyễn Duy Khánh",
+        "Age": 21,
+        "Class": "K25",
+        "Scores": [
+            7,
+            5,
+            9,
+            8
+        ]
+    },
+    {
+        "MaSV": "102",
+        "Name": "Nguyễn Duy Khánh",
+        "Age": 19,
+        "Class": "K28",
+        "Scores": [
+            7,
+            5,
+            8,
+            9
+        ]
+    }
+]
